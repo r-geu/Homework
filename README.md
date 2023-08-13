@@ -10,4 +10,4 @@
 
 ![Theo](IMG_7686.jpeg)
 
-### He is expensive
+### Theodore
