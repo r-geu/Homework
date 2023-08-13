@@ -10,8 +10,4 @@
 
 [What is Python](https://www.codecademy.com/article/what-is-python)
 
-![Theo](IMG_7686.jpeg)
-
-<<<<<<< HEAD
-#### Theodore
 
