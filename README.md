@@ -12,4 +12,8 @@
 
 ![Theo](IMG_7686.jpeg)
 
+<<<<<<< HEAD
 #### Theodore
+=======
+### Theodore
+>>>>>>> 013f6daf10f70132977fc4bae05046a87e3b0871
