@@ -1,7 +1,9 @@
 # Roxanne Geurin
-#### US AF Veteran &rarr; Public Health
+
+## US AF Veteran &rarr; Public Health
 
 ### Goals for Data Analytics course
+
 1. Learn new skills
 2. Use data to answer public health questions
 3. Find job utilizing new skills
